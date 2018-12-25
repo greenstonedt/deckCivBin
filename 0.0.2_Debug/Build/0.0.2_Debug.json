@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DeckCiv",
+"dataUrl": "0.0.2_Debug.data.unityweb",
+"asmCodeUrl": "0.0.2_Debug.asm.code.unityweb",
+"asmMemoryUrl": "0.0.2_Debug.asm.memory.unityweb",
+"asmFrameworkUrl": "0.0.2_Debug.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
